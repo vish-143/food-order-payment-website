@@ -1,0 +1,5 @@
+export const ITEMNAME = "listofitems"
+export const ADDPRODUCT = "increaseitem"
+export const DELETEPRODUCT = "deleteitem"
+export const ADDUSERITEM = "addmenuitem"
+export const CLEARITEM = "removetotalitem"

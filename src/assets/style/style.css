@@ -1,0 +1,136 @@
+.splitContainer{
+    margin: 10px;
+    height: 700px;
+}
+.box3{
+    background-color: #565abb;
+    color: aliceblue;
+    border-radius: 5%;
+}
+.box2{
+    padding: 0px !important;
+}
+.inputColor{
+   background-color: #6268c6 !important; 
+   border: none !important;
+   color: red;
+}
+input::placeholder{
+    color: white !important;   
+}
+.inputColor:focus{
+    color: white !important;   
+}
+.imageHeader{
+    display: flex;
+    /* justify-content: space-evenly; */
+    justify-content: space-between;
+}
+.userFace{
+   width: 72px;
+   height: 65px;
+   border-radius: 20px;
+   padding: 2px;
+}
+.pic{
+    width : 90px;
+    height : 90px;
+    border-radius: 20px;;
+}
+.componentPack{
+    height: 55rem;
+    padding: 5px;
+    background-color: white;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.DebitCard{
+    padding: 10px;
+    margin-top: 20px;
+}
+.paymentIcon{
+    background-color: #7073c1;
+    width: 75px;
+}
+.iconPaymentContainer{
+  display: flex;
+  column-gap: 5px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.buttonContainer{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    background-color: #4de1c1;
+   border-radius: 10px;
+}
+.orderButton{
+    color: white;
+}
+.svgIcon{
+    width : 20px;
+    height : 20px;
+}
+.itemCardDesign{
+    background-color: white;
+    padding: 0%;
+}
+.orderCountButton{
+    margin: 5px;
+}
+.notAllowed{
+    cursor: not-allowed;
+}
+.loginProfile{
+    height: 80px;
+    width: 80px;
+    margin: 20px 78px;
+}
+.boxStorage{
+    color: black !important;
+}
+.cardDesign {
+    display: flex;
+    flex-direction: column;
+    gap: 33px;  
+    margin-top: 15px; 
+}
+.table-responsive{
+    box-shadow: 5px 5px 10px whitesmoke;
+    background-color: #f5f5f5;
+}
+.addItemContainer{
+    border: 1px solid #565abb;
+}
+.cardBoxContainer{
+    background-color: #f5f5f5;
+}
+.table,td{
+ padding: 0% !important;
+}
+.card{
+    /* height: 150px !important; */
+    background-color: #f5f5f5 !important;
+    display: grid !important;
+    align-items: center;
+    padding: 3% !important;
+    margin-top: 10px;
+}
+.signUpButton{
+  margin: 20px 78px;
+}
+.overflowTable{
+    height: 559px;
+}
+.overflowTable{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.headerText{
+    font-size: x-large;
+}
+.tiltleText{
+    font-weight: bold;
+}
+
